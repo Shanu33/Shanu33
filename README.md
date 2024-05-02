@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shanu33
 - 👀 I’m interested in data science and ethicking (ethical hacking)
-- 🌱 I’m currently learning computer engineerin
+- 🌱 I’m currently learning computer engineering
 - 
 - 📫 How to reach me 
 #mail-id 👉shahnawaz.sk230@gmail.com
