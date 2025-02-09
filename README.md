@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Shanu33
-- 👀 I’m interested in data science and ethicking (ethical hacking)
-- 🌱 I’m currently learning computer engineering
+- 👋 Hi, I’m Shahnawaz Khan
+- 👀 I’m interested in Flutter Development and Ethicking (Ethical Hacking)
+- 🌱 I’m currently learning Flutter Development
+- 👨‍🎓 Pursuing B.E in Computer Science
 - 
 - 📫 How to reach me 
 #mail-id 👉shahnawaz.sk230@gmail.com
