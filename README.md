@@ -38,7 +38,7 @@
 
 <h3>🔥 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?Shanu33=Shanu33&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-stats.vercel.app/api?user=Shanu33&show_icons=true&theme=tokyonight">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanu33&theme=tokyonight">
 </p>
