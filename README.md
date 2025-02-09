@@ -1,13 +1,53 @@
-- 👋 Hi, I’m Shahnawaz Khan
-- 👀 I’m interested in Flutter Development and Ethicking (Ethical Hacking)
-- 🌱 I’m currently learning Flutter Development
-- 👨‍🎓 Pursuing B.E in Computer Science
-- 
-- 📫 How to reach me 
-#mail-id 👉shahnawaz.sk230@gmail.com
+<h1 align="center">👋 Hi, I'm Shahnawaz Khan</h1>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <strong>Flutter Developer | Ethical Hacker | Computer Science Student</strong>
+</p>
 
-<!---
-Shanu33/Shanu33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+<h3>🚀 About Me</h3>
+
+<ul>
+  <li>👀 I’m interested in <b>Flutter Development & Ethical Hacking</b>.</li>
+  <li>🌱 Currently learning <b>Flutter Development</b>.</li>
+  <li>🎓 Pursuing <b>B.E in Computer Science</b>.</li>
+</ul>
+
+---
+
+<h3>📫 How to Reach Me</h3>
+
+<p>
+  📧 <strong>Email:</strong> <a href="mailto:shahnawaz.sk230@gmail.com">shahnawaz.sk230@gmail.com</a> <br>
+  🔗 <strong>GitHub:</strong> <a href="https://github.com/yourusername">github.com/yourusername</a>  
+</p>
+
+---
+
+<h3>💻 Tech Stack</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Ethical%20Hacking-000000?style=for-the-badge&logo=kalilinux&logoColor=white">
+</p>
+
+---
+
+<h3>🔥 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?Shanu33=Shanu33&show_icons=true&theme=tokyonight">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shanu33&theme=tokyonight">
+</p>
+
+---
+
+<h3>🚀 Let's Connect</h3>
+<p>
+  <a href="mailto:shahnawaz.sk230@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/Shanu33"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/shahnawaz-khan-8194a61b2)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
