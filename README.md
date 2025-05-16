@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-  <strong>Flutter Developer | Ethical Hacker | Computer Science Student</strong>
+  <strong>Flutter & Ethical Hacking Enthusiast | Computer Science Student</strong>
 </p>
 
 ---
