@@ -49,6 +49,17 @@
 
 ---
 
+## 📦 My Flutter Packages
+
+<p>
+  📚 Checkout my published Dart/Flutter packages on  
+  <a href="https://pub.dev/my-packages" target="_blank">
+    <img src="https://img.shields.io/badge/Pub.dev-181717?style=for-the-badge&logo=dart&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
