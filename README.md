@@ -63,8 +63,9 @@
 
 ---
 
+### 👁️ Profile Views
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shanu33&style=flat-square&color=blue" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Shanu33&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
