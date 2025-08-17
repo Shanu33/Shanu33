@@ -46,15 +46,15 @@
 
 ---
 
-'''## 📦 My Packages
+<!-- ## 📦 My Packages
 
 <p>
   <a href="https://pub.dev/my-packages" target="_blank">
     <img src="https://img.shields.io/badge/Pub.dev-My%20Packages-blue?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
-</p>'''
+</p>
 
----
+--- -->
 
 ## 📊 GitHub Stats
 
